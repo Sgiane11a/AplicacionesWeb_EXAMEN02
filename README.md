@@ -13,7 +13,7 @@ git clone https://github.com/Sgiane11a/AplicacionesWeb_EXAMEN02.git
 4. La aplicación correrá en `http://localhost:8080` y permite realizar operaciones CRUD sobre órdenes de venta.
 
 ## Autor
-Sgiane11a
+Gianella Cordova Apolinario
 
 ## Licencia
 Proyecto académico - sin fines comerciales.
